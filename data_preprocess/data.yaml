@@ -1,0 +1,19 @@
+train: ../train/images
+val: ../valid/images
+
+names:
+    0: i5
+    1: ip
+    2: p5
+    3: p23
+    4: pne
+    5: pl40
+    6: pl50
+    7: pl80
+    8: pl60
+    9: pl100
+    10: pl30
+    11: pl5
+    12: pn
+    13: p11
+    14: p12
